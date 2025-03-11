@@ -11,7 +11,7 @@ async function getTafMetar() {
     return;
   
 }
-  const apiKey = "0030f72ccd534a6c8b92deb40460473b";  
+  const apiKey = "REDACTED";  
   
   try{
   //console.log(`Fetching TAF data for: ${icaoCode}...`);  
